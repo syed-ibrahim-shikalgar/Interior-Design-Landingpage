@@ -26,4 +26,4 @@
 
 - how to create buttons with transparency
 
-## [Live-link]() of the project
+## [Live-link](https://landingpage-of-interior-design.netlify.app/) of the project
