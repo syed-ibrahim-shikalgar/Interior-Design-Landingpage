@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Montserrat:wght@400;900&family=Orbitron:wght@400;500;600;700;800;900&family=Oswald:wght@200;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,800;0,900;1,400;1,500;1,600;1,800;1,900&family=Red+Rose:wght@300;400;700&family=Righteous&family=Roboto:wght@300;500;900&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    height: 100vh;
+    background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.655), rgba(0, 0, 0, 0.642)), url(./images/bg8.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-family: 'Poppins';
+}
+
+.main1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-top: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 80px;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 30px;
+}
+
+.list1 {
+    display: flex;
+    flex-direction: row;
+    margin-top: -10px;
+}
+
+.nav-list {
+    margin-right: 70px;
+}
+
+ion-icon {
+    font-size: 25px;
+}
+
+.call {
+    margin-right: 10px;
+}
+
+.list11 {
+    font-size: 17px;
+}
+
+.main2 {
+    margin-top: 7rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.text11 {
+    right: 0;
+    position: absolute;
+}
+
+.text {
+    margin-left: 90px;
+}
+
+.text h1 {
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.text h3 {
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 3rem;
+    border: 2px solid #fff;
+    border-radius: 40px;
+    width: fit-content;
+    padding: 10px 35px;
+}
+
+.text11 {
+    background: rgba(175, 174, 174, 0.615);
+    padding: 20px 30px;
+    margin-right: 10rem;
+    margin-top: -2.7rem;
+}
+
+.text11 ion-icon {
+    font-size: 30px;
+    border: 1px solid #fff;
+    background: #fff;
+    color: #000;
+    padding: 5px 30px;
+    border-radius: 40px;
+}
+
+.text11 h4 {
+    font-weight: 500;
+}
+
+.text12 {
+    background: rgba(175, 174, 174, 0.615);
+    width: fit-content;
+    padding: 20px 30px;
+}
+
+.text12 {
+    margin-top: 12rem;
+    margin-left: 6rem;
+}
+
+.text12 ion-icon {
+    font-size: 30px;
+    border: 1px solid #fff;
+    background: #fff;
+    color: #000;
+    padding: 5px 20px;
+    border-radius: 40px;
+}
+
+.text12 h4 {
+    font-weight: 500;
+}
+
+.dot {
+   height: 2.5vh;
+   width: 1.25vw;
+   background-color: #fff;
+   border-radius: 50%;
+   right: 0;
+   position: absolute;
+   margin-right: 15.19rem;
+   bottom: 19.8rem;
+}
+
+.dot1 {
+    height: 2.5vh;
+    width: 1.25vw;
+    background-color: #fff;
+    border-radius: 50%;
+    right: 0;
+    position: absolute;
+    bottom: 15.4rem;
+    margin-right: 22rem;
+}
+
+.line {
+    background-color: #fff;
+    height: 10vh;
+    width: 0.1vw;
+    position: relative;
+    left: 1283px;
+    bottom: 16.3rem;
+}
+
+.line1 {
+    background-color: #fff;
+    height: 0.1vh;
+    width: 7vw;
+    position: relative;
+    left: 1060px;
+    bottom: 16.3rem;
+    margin-top: 5rem;
+}
