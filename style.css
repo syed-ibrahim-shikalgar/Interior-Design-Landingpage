@@ -13,6 +13,7 @@ body {
     background-repeat: no-repeat;
     color: #fff;
     font-family: 'Poppins';
+    overflow: hidden;
 }
 
 .main1 {
@@ -169,6 +170,10 @@ ion-icon {
         padding: 10px;
     }
 
+    .text1 {
+        display: inline;
+    }
+
     .text11 {
         width: 10rem;
         padding: 0.5rem;
@@ -178,6 +183,6 @@ ion-icon {
     .text12 {
         width: 10rem;
         padding: 0.5rem;
-        margin-right: 80px;
+        margin-right: 5rem;
     }
 }
